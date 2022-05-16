@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">BryanEspejo</string>
+    <string name="tv_nombre">Nombre:</string>
+    <string name="tv_apellido">Apellido:</string>
+    <string name="tv_base">Base:</string>
+    <string name="tv_exponente">Exponente:</string>
+    <string name="tv_factorial">Factorial:</string>
+    <string name="tv_numeroFactorial">Nùmero (Factorial):</string>
+    <string name="tv_potencia">Potencia:</string>
+
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="btn_mostrar">Mostrar Resultados</string>
+    <string name="btn_Cerrar">Cerrar</string>
+
+
+    <string name="et_hint_nombre">Nombre</string>
+    <string name="et_hint_apellido">Apellido</string>
+    <string name="et_hint_base">Base</string>
+    <string name="et_hint_exponente">Exponente</string>
+    <string name="et_hint_factorial">Factorial</string>
+    <string name="et_hint_potencia">Potencia</string>
+
 </resources>
